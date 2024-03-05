@@ -1,19 +1,19 @@
-#ESDERİ
+# ESDERİ
 
-##Proje Tanımı:
+## Proje Tanımı:
 EsDeri, tamamen el yapımı gerçek deri ürünleri satan kullanıcı dostu bir e-ticaret web sitesidir. Geniş ürün yelpazesi, içerisinde el emeği gerçek deriden cüzdanlar, kartlıklar, anahtarlıklar, çantalar, laptop koruyucuları ve kılıflar gibi çeşitli kategorileri barındırarak müşterilere çeşitlilik sunmayı hedefler. Kullanıcıların kolayca gezinip istedikleri ürünleri bulabilmeleri için mobil uyumlu ve kullanıcı dostu bir arayüz tasarlanacaktır. Güvenli ödeme sistemleri ile müşteri bilgileri korunacak, ödeme süreçleri sorunsuz bir şekilde işleyecektir. Ayrıca, müşterilere özelleştirme seçenekleri sunularak, renk seçenekleri, lazer ile ürünlerine özelleştirmeler yapma imkanı tanınacaktır. Müşteri ilişkilerine önem veren EsDeri, e-posta ve telefon gibi iletişim kanalları aracılığıyla hızlı ve etkili destek sağlayacak, pazarlama stratejileri ve promosyonlar ile müşteri çekmeyi amaçlayacaktır. Lojistik süreçleri düzenli ve güvenilir olacak ve bu şekilde müşteri memnuniyeti artırılacaktır.
 
-##Proje Kategorisi
+## Proje Kategorisi
 EsDeri bir e-ticaret web sitesidir.
 
-##Referans Uygulaması
+## Referans Uygulaması
 [Diceroscraft](https://diceroscraft.com/)
 
 
-##Grup Adı
+## Grup Adı
 EsDeri
 
-##Proje Ekibi
+## Proje Ekibi
 Yağmur Yalçın
 
 ##
