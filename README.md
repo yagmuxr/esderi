@@ -18,7 +18,7 @@ Yağmur Yalçın
 
 ##
 1. [Proje Planı](https://docs.google.com/presentation/d/1EfSrkRJBm4Ig8BeSN-qRKD6gjEGN-G0W/edit?usp=drive_link&ouid=115038878771774377524&rtpof=true&sd=true)
-2. [Gereksinim Analizi]()
+2. [Gereksinim Analizi](https://github.com/yagmuxr/esderi/blob/master/GereksinimAnalizi.md)
 3. [Durum Diyagramı]()
 4. [Durum Senaryoları]()
 5. [Veritabanı Diyagramı]()
