@@ -17,7 +17,7 @@ EsDeri
 Yağmur Yalçın
 
 ##
-1. [Proje Planı](https://docs.google.com/spreadsheets/d/1qTdIwIBzz1v-x1AHGkHbwBaMPp1Flm6X/edit?usp=sharing&ouid=115038878771774377524&rtpof=true&sd=true)
+1. [Proje Planı](https://docs.google.com/spreadsheets/d/1dGOOJXicDQdBm7nbQpzm45pE5PiWy1yz/edit?usp=sharing&ouid=115038878771774377524&rtpof=true&sd=true)
 2. [Gereksinim Analizi](https://github.com/yagmuxr/esderi/blob/master/GereksinimAnalizi.md)
 3. [Durum Diyagramı]()
 4. [Durum Senaryoları]()
