@@ -21,7 +21,7 @@ Yağmur Yalçın
 2. [Gereksinim Analizi](https://github.com/yagmuxr/esderi/blob/master/GereksinimAnalizi.md)
 3. [Durum Diyagramı](https://drive.google.com/file/d/1embKcG03_w3OtFUIy6ly7L8MqiUb361v/view?usp=sharing)
 4. [Durum Senaryoları](https://drive.google.com/file/d/1U5gPCyLrxrRnVFhCSIZkLK_Xmc_ivQCq/view?usp=sharing)
-5. [Veritabanı Diyagramı]()
+5. [Veritabanı Diyagramı](https://drive.google.com/file/d/1oK0my8g8F_ivc1QJo7eyGEV-My3psZaB/view?usp=sharing)
 6. [Frontend]()
 7. [Backend]()
 8. [Test]()
