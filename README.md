@@ -20,7 +20,7 @@ Yağmur Yalçın
 1. [Proje Planı](https://docs.google.com/spreadsheets/d/1dGOOJXicDQdBm7nbQpzm45pE5PiWy1yz/edit?usp=sharing&ouid=115038878771774377524&rtpof=true&sd=true)
 2. [Gereksinim Analizi](https://github.com/yagmuxr/esderi/blob/master/GereksinimAnalizi.md)
 3. [Durum Diyagramı](https://drive.google.com/file/d/1embKcG03_w3OtFUIy6ly7L8MqiUb361v/view?usp=sharing)
-4. [Durum Senaryoları](https://drive.google.com/file/d/1U5gPCyLrxrRnVFhCSIZkLK_Xmc_ivQCq/view?usp=sharing)
+4. [Durum Senaryoları](https://drive.google.com/file/d/1Cno3LdN4ilUzxJgrQYL2ws7iM-F0URmP/view?usp=sharing)
 5. [Veritabanı Diyagramı](https://drive.google.com/file/d/1HjLzba-41uCGzgHpKabAoqAPJwdAFfvk/view?usp=sharing)
 6. [Frontend]()
 7. [Backend]()
