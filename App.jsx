@@ -1,21 +1,21 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
-import HomePage from "./pages/HomePage";
-import Account from "./components/Account/Account";
-import ShopPage from "./pages/ShopPage";
-import CartPage from "./pages/CartPage";
-import ContactPage from "./pages/ContactPage";
-import ProductDetailsPage from "./pages/ProductDetailsPage";
-import AdminUserPage from "./pages/admin/AdminUserPage";
-import CategoryPage from "./components/Categories/CategoryPage";
-import UpdateCategoryPage from "./components/Categories/UpdateCategoryPage";
-import CreateProductPage from "./components/Products/CreateProductPage";
-import UpdateProductPage from "./components/Products/UpdateProductPage";
-import ProductPage from "./components/Products/ProductPage";
-import OrderPage from "./components/Products/OrderPage";
-import AdminLayout from "./components/Layouts/AdminLayout";
-import CouponPage from "./components/Coupon/CouponPage";
-import Success from "./pages/Success";
+import HomePage from "./frontend/src/pages/HomePage";
+import Account from "./frontend/src/components/Account/Account";
+import ShopPage from "./frontend/src/pages/ShopPage";
+import CartPage from "./frontend/src/pages/CartPage";
+import ContactPage from "./frontend/src/pages/ContactPage";
+import ProductDetailsPage from "./frontend/src/pages/ProductDetailsPage";
+import AdminUserPage from "./frontend/src/pages/admin/AdminUserPage";
+import CategoryPage from "./frontend/src/components/Categories/CategoryPage";
+import UpdateCategoryPage from "./frontend/src/components/Categories/UpdateCategoryPage";
+import CreateProductPage from "./frontend/src/components/Products/CreateProductPage";
+import UpdateProductPage from "./frontend/src/components/Products/UpdateProductPage";
+import ProductPage from "./frontend/src/components/Products/ProductPage";
+import OrderPage from "./frontend/src/components/Products/OrderPage";
+import AdminLayout from "./frontend/src/components/Layouts/AdminLayout";
+import CouponPage from "./frontend/src/components/Coupon/CouponPage";
+import Success from "./frontend/src/pages/Success";
 
 function App() {
   return (
