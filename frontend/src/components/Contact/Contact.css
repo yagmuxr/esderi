@@ -1,0 +1,126 @@
+.contact .contact-bottom {
+  margin: 30px 0;
+}
+
+.contact-bottom .contact-titles {
+  width: 75%;
+}
+
+.contact-bottom .contact-titles h4 {
+  color: #a21232;
+  font-weight: 500;
+}
+
+.contact-bottom .contact-titles h2 {
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.contact-bottom .contact-titles p {
+  font-size: 14px;
+}
+
+.contact-bottom .contact-elements {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+  gap: 100px;
+}
+
+.contact-bottom .contact-form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.contact-bottom .contact-form > div {
+  display: flex;
+  flex-direction: column;
+  flex-basis: calc(50% - 10px);
+  font-size: 14px;
+  row-gap: 4px;
+}
+
+.contact-bottom .contact-form > div label span {
+  color: #a21232;
+}
+
+.contact-bottom .contact-form > div:nth-child(3),
+.contact-bottom .contact-form > div:nth-child(4) {
+  flex-basis: 100%;
+}
+
+.contact-bottom .contact-form .form-button {
+  background-color: black;
+  color: #fff;
+}
+
+.contact-elements .contact-info {
+  flex-basis: 50%;
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+}
+
+.contact-info-item {
+  font-size: 14px;
+}
+
+.contact-info-item .contact-info-texts {
+  display: flex;
+  flex-direction: column;
+}
+
+.contact-info-item .contact-street {
+  margin: 15px 0;
+}
+
+.contact-info-item .contact-date {
+  margin-top: 10px;
+}
+
+/* About section styles */
+.about-section {
+  background-color: #f9f9f9;
+  padding: 50px 0;
+  text-align: center;
+}
+
+.about-section .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.about-content {
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+.about-content h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.about-content p {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+/* responsive */
+@media (max-width: 768px) {
+  .contact .contact-titles {
+      width: 100%;
+  }
+
+  .contact-elements {
+      flex-direction: column;
+      gap: 50px !important;
+  }
+}
+
+@media (max-width: 576px) {
+  .contact-form {
+      flex-direction: column;
+  }
+}

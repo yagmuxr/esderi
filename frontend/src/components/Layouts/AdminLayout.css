@@ -1,0 +1,39 @@
+.admin-layout .site-layout-background {
+    background: #fff;
+    padding: 24px;
+    min-height: 360px;
+}
+
+.admin-layout-header {
+    background-color: #001529;
+    padding: 0 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+.admin-layout-header h2 {
+    color: white;
+    margin: 0;
+}
+
+.admin-layout-sider {
+    background: #001529;
+}
+
+.admin-layout-menu {
+    height: 100%;
+    border-right: 0;
+}
+
+.admin-layout-content {
+    margin: 24px 16px;
+    padding: 24px;
+    background: #fff;
+    min-height: 360px;
+}
+
+.ant-layout {
+    background: #f0f2f5;
+}
