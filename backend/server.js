@@ -35,7 +35,7 @@ mongoose.connection.on("connected", () => {
 
 // Middleware setup
 app.use(cors({
-    origin: ['https://esderi.vercel.app'], // Vercel'deki frontend domaininiz
+    origin: ['https://esderi.vercel.app'],
     methods: ["GET", "POST", "PUT", "DELETE"],
     credentials: true
 }));
@@ -63,4 +63,5 @@ app.listen(PORT, async () => {
         console.error("Failed to connect to MongoDB:", error);
     }
 });
-module.exports= app;
+
+module.exports = app;
