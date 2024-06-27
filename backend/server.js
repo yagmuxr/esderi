@@ -41,7 +41,7 @@ app.use(cors({ origin: ['https://esderi.vercel.app/' ],
 app.use(express.json());
 
 // Serve static files from the React app
-app.use(express.static(path.join(__dirname, '../client/build')));
+app.use(express.static(path.join(__dirname, '../frontend/dist')));
 
 // Routes setup
 app.use("/api", mainRoute);
@@ -50,14 +50,15 @@ app.use("/api/users", userRoute);
 // The "catchall" handler: for any request that doesn't
 // match one above, send back React's index.html file.
 app.get('*', (req, res) => {
-    res.sendFile(path.join(__dirname, '../frontend/index.html'));
+    res.sendFile(path.join(__dirname, '../frontend/dist', 'index.html'));
 });
 
 // Start the server
-app.listen(PORT, () => {
-    connect().catch(error => {
+app.listen(PORT, async () => {
+    try {
+        await connect();
+        console.log(`Server is running on port ${PORT}`);
+    } catch (error) {
         console.error("Failed to connect to MongoDB:", error);
-        process.exit(1);
-    });
-    console.log(`Server is running on port ${PORT}`);
+    }
 });
