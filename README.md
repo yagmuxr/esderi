@@ -8,7 +8,8 @@ EsDeri bir e-ticaret web sitesidir.
 
 ## Referans Uygulaması
 [Diceroscraft](https://diceroscraft.com/)
-
+[Frontend Uygulama](https://esderi.vercel.app/)
+[Backend Uygulama](https://esderi-api.vercel.app/)
 
 ## Grup Adı
 EsDeri
