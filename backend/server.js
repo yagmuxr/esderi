@@ -2,9 +2,11 @@ const express = require("express");
 const mongoose = require("mongoose");
 const dotenv = require("dotenv");
 const cors = require("cors");
+const path = require("path");
 
-const mainRoute = require("./routes/index"); // Ensure this file exports a valid Express router
-const userRoute = require("./routes/users"); // Ensure this file exports a valid Express router
+const mainRoute = require("./routes/index");
+const userRoute = require("./routes/users");
+
 dotenv.config();
 const app = express();
 const PORT = process.env.PORT || 5000;
@@ -35,12 +37,21 @@ mongoose.connection.on("connected", () => {
 app.use(cors({ origin: ['https://esderi.vercel.app/' ],
     methods: ["GET", "POST", "PUT", "DELETE"],
     credentials: true
-})); // Update with your frontend URL
+}));
 app.use(express.json());
 
+// Serve static files from the React app
+app.use(express.static(path.join(__dirname, '../client/build')));
+
 // Routes setup
-app.use("/api", mainRoute); // Ensure these routes match your frontend API calls
+app.use("/api", mainRoute);
 app.use("/api/users", userRoute);
+
+// The "catchall" handler: for any request that doesn't
+// match one above, send back React's index.html file.
+app.get('*', (req, res) => {
+    res.sendFile(path.join(__dirname, '../frontend/index.html'));
+});
 
 // Start the server
 app.listen(PORT, () => {
