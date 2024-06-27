@@ -1,5 +1,6 @@
 ## Yağmur Yalçın Tasarımlar
 
+React Çatısı Kullanıldı.(MERN)
 1. Giriş Yapma
 2. Kayıt Olma
 3. Ürün Arama
@@ -11,5 +12,3 @@
 9. Ürün Görüntüleme
 10. Kullanıcı Hesabını Silme
 11. Yorum Ekleme
-12. Yorum Güncelleme
-13. Yorum Silme

@@ -15,14 +15,14 @@ const Success = () => {
       <div className="container">
         <Result
           status="success"
-          title="Ödeme Başarılı!"
-          subTitle="Siparişiniz başarıyla tamamlandı"
+          title="Payment Successful!"
+          subTitle="Your order has been completed successfully"
           extra={[
             <Link to={"/"} key="home">
-              <Button type="primary">Ana Sayfa</Button>
+              <Button type="primary">Home</Button>
             </Link>,
             <a href="/admin/orders" key={"order"}>
-              <Button key="buy">Siparişlerim</Button>
+              <Button key="buy">My Orders</Button>
             </a>,
           ]}
         />

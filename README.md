@@ -24,5 +24,5 @@ Yağmur Yalçın
 5. [Veritabanı Diyagramı](https://drive.google.com/file/d/1HjLzba-41uCGzgHpKabAoqAPJwdAFfvk/view?usp=sharing)
 6. [Frontend](https://github.com/yagmuxr/esderi/blob/master/Frontend.md)
 7. [Backend](https://github.com/yagmuxr/esderi/blob/master/Frontend.md)
-8. [Test]()
-9. [Geliştirici ve Kullanıcı Dökümantasyonları]()
+8. [Test](https://github.com/yagmuxr/esderi/blob/master/Test.md)
+9. [Geliştirici ve Kullanıcı Dökümantasyonları](https://yagmurs-organization.gitbook.io/esderi/)

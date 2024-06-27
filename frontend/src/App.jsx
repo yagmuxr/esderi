@@ -10,6 +10,7 @@ import AdminUserPage from "./pages/admin/AdminUserPage";
 import CategoryPage from "./components/Categories/CategoryPage";
 import UpdateCategoryPage from "./components/Categories/UpdateCategoryPage";
 import CreateProductPage from "./components/Products/CreateProductPage";
+import CreateCategoryPage from "./components/Categories/CreateCategoryPage";
 import UpdateProductPage from "./components/Products/UpdateProductPage";
 import ProductPage from "./components/Products/ProductPage";
 import OrderPage from "./components/Products/OrderPage";
@@ -30,6 +31,7 @@ function App() {
       <Route path="/admin" element={<AdminLayout />}>
         <Route path="users" element={<AdminUserPage />} />
         <Route path="categories" element={<CategoryPage />} />
+        <Route path="create-category" element={<CreateCategoryPage />} />
         <Route path="categories/:id" element={<UpdateCategoryPage />} />
         <Route path="products" element={<ProductPage />} />
         <Route path="products/create" element={<CreateProductPage />} />
