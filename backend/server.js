@@ -4,7 +4,7 @@ const dotenv = require("dotenv");
 const cors = require("cors");
 const path = require("path");
 
-const mainRoute = require("./index");
+const mainRoute = require("./routes/index");
 const userRoute = require("./routes/users");
 
 dotenv.config();
@@ -35,7 +35,7 @@ mongoose.connection.on("connected", () => {
 
 // Middleware setup
 app.use(cors({
-    origin: ['https://esderi.vercel.app'],
+    origin: ['https://esderi.vercel.app'], // Vercel'deki frontend domaininiz
     methods: ["GET", "POST", "PUT", "DELETE"],
     credentials: true
 }));
@@ -63,5 +63,4 @@ app.listen(PORT, async () => {
         console.error("Failed to connect to MongoDB:", error);
     }
 });
-
-module.exports = app;
+module.exports= app;
