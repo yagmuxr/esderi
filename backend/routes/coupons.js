@@ -6,7 +6,7 @@ const Coupon = require('../models/Coupon');
 router.post("/", async (req, res) => {
     try {
         const { code } = req.body;
-        // Kupon kodunun zaten var olup olmadığını kontrol et
+        
         const existingCoupon = await Coupon.findOne({ code });
         if (existingCoupon) {
             return res.status(400).json({ error: "Coupon code already exists." });

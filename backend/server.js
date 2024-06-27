@@ -46,6 +46,7 @@ app.use("/api", mainRoute);
 app.get("/", (req, res) => {
     const dbState = mongoose.connection.readyState === 1 ? "connected" : "disconnected";
     res.json({ message: "Backend!", dbState, connectionError });
+    
 });
 
 app.listen(PORT, async () => {
