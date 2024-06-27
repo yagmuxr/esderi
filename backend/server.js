@@ -4,7 +4,7 @@ const dotenv = require("dotenv");
 const cors = require("cors");
 const path = require("path");
 
-const mainRoute = require("./routes/index");
+const mainRoute = require("./index");
 const userRoute = require("./routes/users");
 
 dotenv.config();

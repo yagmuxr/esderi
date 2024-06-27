@@ -1,12 +1,12 @@
 const express = require("express");
 const router = express.Router();
 
-const productRoute = require("./products");
-const categoryRoute = require("./categories");
-const authRoute = require("./auth");
-const couponRoute = require("./coupons");
-const userRoute = require("./users");
-const paymentRoute = require("./payment");
+const productRoute = require("./routes/products");
+const categoryRoute = require("./routes/categories");
+const authRoute = require("./routes/auth");
+const couponRoute = require("./routes/coupons");
+const userRoute = require("./routes/users");
+const paymentRoute = require("./routes/payment");
 // const favoritesRoute = require("./favorites"); 
 
 router.use("/categories", categoryRoute);
