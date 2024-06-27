@@ -4,7 +4,7 @@ const dotenv = require("dotenv");
 const app = express();
 const cors = require("cors");
 const logger = require("morgan");
-const mainRoute = require("./routes/index.js");
+const mainRoute = require("./routes/routes.js");
 const productsRoute = require("./routes/products.js");
 const port = 5000;
 
