@@ -1,4 +1,4 @@
-## Yağmur Yalçın Tasarımlar
+## Yağmur Yalçın Kodlamalar
 
 Docker Kullanılmadı. REST API kullanıldı. Express.js kullanıldı.
 1. Giriş Yapma
