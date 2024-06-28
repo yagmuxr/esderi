@@ -1,5 +1,6 @@
 ## Yağmur Yalçın Testler: 
 
+Postman Kullanıldı.
 1. Giriş Yapma
 2. Kayıt Olma
 3. Ürün Arama
