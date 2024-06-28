@@ -8,10 +8,14 @@ EsDeri bir e-ticaret web sitesidir.
 
 ## Referans Uygulaması
 [Diceroscraft](https://diceroscraft.com/)
-[Frontend Uygulama](https://esderi.vercel.app/)
+## Proje Linki
+[https://esderi.vercel.app](https://esderi.vercel.app/)
+##
 [Backend Uygulama](https://esderi-api.vercel.app/)
-hocam sadece frontend ayağa kalkıyor domainde. backend ayağa kalkıyor ancak routelara yönlendirme olmuyor.
-[Video](https://www.youtube.com/watch?v=QcRUliCrT8Y&ab_channel=ya%C4%9Fmuryal%C3%A7%C4%B1n)
+hocam sadece frontend ayağa kalkıyor domainde. backend ayağa kalkıyor ancak routelara yönlendirme olmuyor. :(
+##
+[Video Frontend](https://www.youtube.com/watch?v=QcRUliCrT8Y&ab_channel=ya%C4%9Fmuryal%C3%A7%C4%B1n)
+[Video Backend](https://www.youtube.com/watch?v=NxJhTOzcnZk&ab_channel=ya%C4%9Fmuryal%C3%A7%C4%B1n)
 
 ## Grup Adı
 EsDeri
