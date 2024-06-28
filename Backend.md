@@ -1,6 +1,6 @@
 ## Yağmur Yalçın Tasarımlar
 
-Docker Kullanılmadı. REST API kullanıldı. 
+Docker Kullanılmadı. REST API kullanıldı. Express.js kullanıldı.
 1. Giriş Yapma
 2. Kayıt Olma
 3. Ürün Arama
