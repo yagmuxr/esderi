@@ -35,3 +35,4 @@ Yağmur Yalçın
 7. [Backend](https://github.com/yagmuxr/esderi/blob/master/Backend.md)
 8. [Test](https://github.com/yagmuxr/esderi/blob/master/Test.md)
 9. [Geliştirici ve Kullanıcı Dökümantasyonları](https://yagmurs-organization.gitbook.io/esderi/)
+https://yagmurs-organization.gitbook.io/copy-of-esderi/
