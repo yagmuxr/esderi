@@ -10,11 +10,13 @@ EsDeri bir e-ticaret web sitesidir.
 [Diceroscraft](https://diceroscraft.com/)
 ## Proje Linki
 [https://esderi.vercel.app](https://esderi.vercel.app/)
+
+## 
+[Video Frontend, Localde](https://www.youtube.com/watch?v=QcRUliCrT8Y&ab_channel=ya%C4%9Fmuryal%C3%A7%C4%B1n)
 ##
-[Backend Uygulama](https://esderi-api.vercel.app/)
-hocam sadece frontend ayağa kalkıyor domainde. backend ayağa kalkıyor ancak routelara yönlendirme olmuyor. :(
+[Video- DOMAIN](https://www.youtube.com/watch?v=Z14zRYQeYMI&ab_channel=ya%C4%9Fmuryal%C3%A7%C4%B1n)
+hocam ne olur ne olmaz diye ekledim, bu sabaha kadar çalışmıyordu da çalışınca videoya çektim.
 ##
-[Video Frontend](https://www.youtube.com/watch?v=QcRUliCrT8Y&ab_channel=ya%C4%9Fmuryal%C3%A7%C4%B1n)
 [Video Backend](https://www.youtube.com/watch?v=NxJhTOzcnZk&ab_channel=ya%C4%9Fmuryal%C3%A7%C4%B1n)
 
 ## Grup Adı
