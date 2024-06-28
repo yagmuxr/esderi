@@ -26,6 +26,6 @@ Yağmur Yalçın
 4. [Durum Senaryoları](https://drive.google.com/file/d/1Cno3LdN4ilUzxJgrQYL2ws7iM-F0URmP/view?usp=sharing)
 5. [Veritabanı Diyagramı](https://drive.google.com/file/d/1HjLzba-41uCGzgHpKabAoqAPJwdAFfvk/view?usp=sharing)
 6. [Frontend](https://github.com/yagmuxr/esderi/blob/master/Frontend.md)
-7. [Backend](https://github.com/yagmuxr/esderi/blob/master/Frontend.md)
+7. [Backend](https://github.com/yagmuxr/esderi/blob/master/Backend.md)
 8. [Test](https://github.com/yagmuxr/esderi/blob/master/Test.md)
 9. [Geliştirici ve Kullanıcı Dökümantasyonları](https://yagmurs-organization.gitbook.io/esderi/)
